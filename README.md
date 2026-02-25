@@ -1,4 +1,4 @@
-# bmi-health-calculator
+# bmi-health-calculato
 A Python script to calculate Body Mass Index (BMI) and provide health status categories.
 def calculate_bmi(weight_kg, height_m):
     bmi = weight_kg / (height_m ** 2)
